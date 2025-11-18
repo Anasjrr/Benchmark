@@ -455,4 +455,3 @@ Avant soumission, vérifier :
 - [ ] Code source commenté et propre
 - [ ] Scripts .bat fonctionnels
 
-**Bonne chance! **
